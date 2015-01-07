@@ -1,7 +1,4 @@
-#ifndef BASIC_STRING_UTILS_CASE_CONV_HPP
-#define BASIC_STRING_UTILS_CASE_CONV_HPP
-
-/***************************************************************************************************
+/******************************************************************************
  The MIT License
 
  Copyright (c) since 2009 Leandro T. C. Melo
@@ -23,7 +20,10 @@
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  THE SOFTWARE.
-***************************************************************************************************/
+******************************************************************************/
+
+#ifndef BASIC_STRING_UTILS_CASE_CONV_HPP
+#define BASIC_STRING_UTILS_CASE_CONV_HPP
 
 #include "config.hpp"
 #include "detail.hpp"

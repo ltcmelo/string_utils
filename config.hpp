@@ -1,7 +1,4 @@
-#ifndef CONFIG_HPP
-#define CONFIG_HPP
-
-/***************************************************************************************************
+/******************************************************************************
  The MIT License
 
  Copyright (c) since 2009 Leandro T. C. Melo
@@ -23,7 +20,10 @@
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  THE SOFTWARE.
-***************************************************************************************************/
+******************************************************************************/
+
+#ifndef CONFIG_HPP
+#define CONFIG_HPP
 
 #define BUNDLE_NAMESPACE_BEGIN namespace bundle {
 #define DETAIL_NAMESPACE_BEGIN namespace detail {
