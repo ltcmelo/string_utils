@@ -27,6 +27,7 @@
 
 #include "config.hpp"
 #include <functional>
+#include <locale>
 
 BUNDLE_NAMESPACE_BEGIN
 
