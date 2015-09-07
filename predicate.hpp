@@ -30,7 +30,7 @@
 #include <string>
 #include <algorithm>
 
-BUNDLE_NAMESPACE_BEGIN
+NAMESPACE_BEGIN
 
 template <class char_t, class traits_t, class allocator_t>
 bool

@@ -25,7 +25,7 @@
 #ifndef CONFIG_HPP
 #define CONFIG_HPP
 
-#define BUNDLE_NAMESPACE_BEGIN namespace bundle {
+#define NAMESPACE_BEGIN namespace str {
 #define DETAIL_NAMESPACE_BEGIN namespace detail {
 #define NAMESPACE_END }
 

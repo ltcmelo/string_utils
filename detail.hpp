@@ -29,7 +29,7 @@
 #include <functional>
 #include <locale>
 
-BUNDLE_NAMESPACE_BEGIN
+NAMESPACE_BEGIN
 
 DETAIL_NAMESPACE_BEGIN
 

@@ -31,7 +31,7 @@
 #include <locale>
 #include <algorithm>
 
-BUNDLE_NAMESPACE_BEGIN
+NAMESPACE_BEGIN
 
 template <class allocator_t>
 void
